@@ -1,7 +1,14 @@
 1
 2
+<<<<<<< HEAD
 j
 dfg
+=======
+4
+d
+3
+ad
+>>>>>>> 586f05da879bdc65c52c0939d9c0209dadd3fed8
 3
 ert
 4
