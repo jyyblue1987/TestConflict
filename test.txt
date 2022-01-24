@@ -7,8 +7,15 @@ dfg
 4
 d
 3
+2fr
+wer
+sdf
 ad
+<<<<<<< HEAD
 >>>>>>> 586f05da879bdc65c52c0939d9c0209dadd3fed8
+=======
+234
+>>>>>>> e60e531c1b7da30c4aafcb02c65291bdc517cb67
 3
 ert
 4
